@@ -11,8 +11,14 @@ Apollo
 GraphQL
 ```
 
+#### Libraries
+```
+@apollo/server
+node-fetch
+node-mon
+```
+
 ### 내용 서술
-내용은 내 Notion 에 서술하였다.   
 링크 : 
 
 
