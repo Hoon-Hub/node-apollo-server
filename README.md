@@ -19,7 +19,7 @@ node-mon
 ```
 
 ### 🚀 내용 서술
-링크 : 
+링크 : https://k-sanghoon.notion.site/GraphQL-Apollo-5189eaf4296340a2b20dbb2a600be8cd
    
 ### 앞으로...
 - React.js 를 공부하려는 초석 중 하나로 GraphQL 을 공부하게 되었다.
